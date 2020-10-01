@@ -1,0 +1,8 @@
+﻿
+1 - Directory where to place the Folders (Don)
+2 - Folders (Don)
+3 - Folders Number (Don)
+3 - SubFolder (Error)
+
+============Audio Move================
+1 - Folder of audio
